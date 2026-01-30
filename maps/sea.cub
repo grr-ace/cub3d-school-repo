@@ -1,0 +1,15 @@
+NO ./textures/island.xpm
+SO                textures/sea.xpm
+WE ./textures/lighthouse.xpm
+EA textures/mountains_sea.xpm
+F 30,130,139
+C 100,149,237
+
+111111111
+10 000011
+10 000001
+10000W001
+100001001
+110000101
+111110001
+111111111
